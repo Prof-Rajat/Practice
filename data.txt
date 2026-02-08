@@ -1,2 +1,3 @@
 some other file says hello
 New feature from Feat-1
+New feature from Feat-3
